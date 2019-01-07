@@ -3,7 +3,7 @@ title = "About Hugo"
 date = "2014-04-09"
 +++
 
-Hugo is a static site engine written in Go.
+Hugo is a static site engine written in Go. and ..
 
 
 It makes use of a variety of open source projects including:
