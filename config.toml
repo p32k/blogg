@@ -91,7 +91,7 @@ canonifyURLs = true
 
   paragraph = " %>% "
 
-  about     = "The beautiful thing about learning is nobody can take it away from you."
+  about     = " "The beautiful thing about learning is nobody can take it away from you." --BB King"
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
