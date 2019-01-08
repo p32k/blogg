@@ -23,7 +23,7 @@ canonifyURLs = true
   # Sets navbarTitle to match the section of the website
   dynamicTitles        = true
   # Sets RSS icons to appear on the sidebar with the social media buttons
-  #rssAppearAtTop       = true
+  rssAppearAtTop       = true
   rssAppearAtBottom    = true
   # Sets Social Media icons to appear on the sidebar
   socialAppearAtTop    = true
@@ -41,7 +41,7 @@ canonifyURLs = true
   loadFavicon          = false
   faviconVersion       = ""
   # Sets Social Share links to appear on posts
-  socialShare          = true
+  #socialShare          = true
   # Sets specific share to appear on posts (default behavior is to appear)
   socialShareTwitter   = true
   socialShareGoogleplus = true
