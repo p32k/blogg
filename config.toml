@@ -50,7 +50,7 @@ canonifyURLs = true
   socialShareLinkedin  = true
   socialShareStumbleupon = true
   socialSharePinterest = true
-  socialShareEmail     = true
+  #socialShareEmail     = true
 
   # Load custom CSS or JavaScript files. The variable is an array so that you
   # can load multiple files if necessary. You can also load the standard theme
