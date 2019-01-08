@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "%>%"
+title = "Patrick Ofosuhene"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
