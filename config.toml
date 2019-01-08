@@ -159,7 +159,7 @@ canonifyURLs = true
   codepen          = ""
   # Visual Art Communities
   deviantart       = ""
-  flickr           = "example"
+  #flickr           = "example"
   behance          = ""
   dribbble         = ""
   # Publishing Communities
@@ -172,7 +172,7 @@ canonifyURLs = true
   xing             = ""
   slideshare       = ""
   # Social Networks
-  facebook         = "example"
+  #facebook         = "example"
   googleplus       = ""
   reddit           = "example"
   quora            = ""
@@ -182,7 +182,7 @@ canonifyURLs = true
     # WeChat and QQ need testing.
     wechat         = ""
     qq             = "" # User ID Number
-  instagram        = "example"
+  #instagram        = "example"
   tumblr           = ""
   twitter          = "example"
   skype            = ""
