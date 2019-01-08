@@ -5,7 +5,7 @@ date = "2014-04-09"
 
 
 ## Patrick Ofosuhene
-Hugo is a static site engine written in Go. and ..
+I'm a Statistics PhD Student at Bowling Green State University. My research is in the field of Energy Statistics. 
 
 
 
