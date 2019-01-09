@@ -10,10 +10,12 @@ I'm a Statistics PhD Student at Bowling Green State University. My research is i
 
 
 ## Education 
-* Bowling Green State University
+* Bowling Green State University 
+
 PhD, Statistics
 
 * University of Texas at Dallas
+
 MS, Statistics, 2016
 
 ## Technical Summary
