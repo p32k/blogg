@@ -13,4 +13,4 @@ featuredalt: ''
 featuredpath: ''
 linktitle: ''
 ---
-This is my new post and it is awesome
+This is my new post and it is awesome ```{r echo = TRUE} Print ```
