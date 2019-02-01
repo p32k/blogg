@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://patricko.netlify.com/"
 languageCode = "en-us"
 title = "Patrick Ofosuhene"
 theme = "hugo-future-imperfect"
