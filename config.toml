@@ -11,13 +11,15 @@ pluralizeListTitles = false
 enableRobotsTXT = true
 canonifyURLs = true
 
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Patrick Ofosuhene. Powered by Hugo"
+  description          = "Patrick Ofosuhene's website"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = " "
+  navbarTitle          = "Home"
   # Sets where "View More Posts" links
-  viewMorePostLink     = "/blog/"
+  viewMorePostLink     = "/post/"
 
 # Optional Params
   # Sets navbarTitle to match the section of the website
@@ -122,6 +124,12 @@ canonifyURLs = true
   url = "/about/"
   identifier = "fa fa-id-card-o"
   weight = 2
+
+[[menu.main]]
+        name = "GitHub"
+        url = "https://github.com/p32k"
+        identifier = "fa fa-code"
+        weight = 2
 
 [[menu.main]]
   name = "Blog"
