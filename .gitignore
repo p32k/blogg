@@ -1,1 +1,8 @@
-public
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+data
+website.Rproj
+public/
