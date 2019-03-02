@@ -45,7 +45,7 @@ canonifyURLs = true
   # Sets Social Share links to appear on posts
   #socialShare          = true
   # Sets specific share to appear on posts (default behavior is to appear)
-  socialShareTwitter   = true
+  socialShareTwitter   = false
   socialShareGoogleplus = true
   socialShareFacebook  = true
   socialShareReddit    = true
